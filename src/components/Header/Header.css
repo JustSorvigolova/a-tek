@@ -1,0 +1,23 @@
+.lpl{
+    padding-top: 5px;
+}
+.forms{
+    width: 100%;
+    border-radius: 10px;
+
+}
+.pad{
+    margin-left: 25px;
+}
+.location{
+    text-align: center;
+}
+.lad{
+    margin-left: 70px;
+}
+.hoc{
+    background-color: #4D2392;
+    color: #F9F7FD;
+    width: 250%;
+    border-radius: 8px;
+}
